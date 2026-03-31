@@ -1,19 +1,18 @@
-﻿UserName,Nombre,Iniciales
-ANALISTAD\ADATOS,Darel,DM
-dmasis,Darel,DM
-ealvarez,Elda,EA
-hramos,Héctor,HR
-lzeledon,Luis,LZ
-rcarballo,Rosmery,RC
-ylopez,Yorks,YL
-ytercero,Yeser,YT
-powerbi,Yorks,YL
-cmartinez, Cristian, CM
-crianzaasturias, Aristides, CA
-dbarbosa, David, DB
-cdsanchez, César, CS
-mnavarro, Leonela, LN
-incubadora, María, MJ
-rnarvaez, Roberto, RN
-incubadora, Ma. José, MJ
-jcastro, Judith, JC
+UserName,Nombre,Iniciales,Apellido
+ANALISTAD\ADATOS,Darel,DM,Masis
+dmasis,Darel,DM,Masis
+ealvarez,Elda,EA,Álvarez
+hramos,Héctor,HR,Ramos
+lzeledon,Luis,LZ,Zeledón
+rcarballo,Rosmery,RC,Carballo
+ylopez,Yorks,YL,López
+ytercero,Yeser,YT,Tercero
+powerbi,Yorks,YL,López
+cmartinez,Cristian,CM,Martínez
+crianzaasturias,Granja,CA,Asturias
+dbarbosa,David,DB,Barbosa
+cdsanchez,César,CS,Sánchez
+mnavarro,Leonela,LN,Navarro
+rnarvaez,Roberto,RN,Narváez
+incubadora,Ma. José,MJ,Bonilla
+jcastro,Judith,JC,Castro
